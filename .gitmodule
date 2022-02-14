@@ -1,0 +1,18 @@
+[submodule "lsm10_v2"]
+	path = lsm10_v2
+	url = git@github.com:RosCarAutoIO/lsm10_v2.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = git@github.com:RosCarAutoIO/usb_cam.git
+[submodule "ros_astra_camera"]
+	path = ros_astra_camera
+	url = git@github.com:RosCarAutoIO/ros_astra_camera.git
+[submodule "web_video_server"]
+	path = web_video_server
+	url = git@github.com:RosCarAutoIO/web_video_server.git
+[submodule "world_canvas_msgs"]
+	path = world_canvas_msgs
+	url = git@github.com:RosCarAutoIO/world_canvas_msgs.git
+[submodule "rrt_exploration"]
+	path = rrt_exploration
+	url = git@github.com:RosCarAutoIO/rrt_exploration.git
